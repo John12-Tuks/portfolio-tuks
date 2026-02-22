@@ -1,0 +1,40 @@
+.cv-page {
+    padding: 40px;
+    min-height: 100vh;
+    background-color: #050b18;
+}
+
+.cv-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.download-btn {
+    background-color: #6366f1;
+    color: white;
+    padding: 10px 18px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 500;
+    transition: 0.3s ease;
+}
+
+.download-btn:hover {
+    background-color: #4f46e5;
+}
+
+.cv-container {
+    display: flex;
+    justify-content: center;
+}
+
+.cv-container iframe {
+    width: 80%;
+    height: 85vh;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+}

@@ -1,0 +1,24 @@
+@{
+    ViewData["Title"] = "My CV";
+
+    // Replace with your actual CV file name
+    var cvFile = Url.Content("~/documents/Tokelo_CV.pdf");
+}
+
+<link rel="stylesheet" href="~/css/resume.css" />
+
+<div class="cv-page">
+
+    <div class="cv-header">
+        <h1>My Resume</h1>
+
+        <a href="@cvFile" download class="download-btn">
+            Download CV
+        </a>
+    </div>
+
+    <div class="cv-container">
+        <iframe src="@cvFile"></iframe>
+    </div>
+
+</div>

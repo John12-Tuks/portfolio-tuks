@@ -1,0 +1,62 @@
+@model List<MyWebsite.Models.Project>
+
+@{
+    ViewData["Title"] = "Projects";
+}
+
+<link rel="stylesheet" href="~/css/project.css" />
+
+<div class="project-section">
+
+    <h1 class="project-heading text-center">
+        My Recent <span class="purple">Works</span>
+    </h1>
+
+    <p class="text-center text-light">
+        Here are a few projects I've worked on recently.
+    </p>
+
+    <div class="container-fluid">
+    <div class="row justify-content-center">
+
+        @foreach (var project in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card bg-dark text-light h-100 shadow">
+
+                    <img src="@project.ImagePath"
+                         class="card-img-top"
+                         alt="@project.Title" />
+
+                    <div class="card-body d-flex flex-column">
+
+                        <h5 class="card-title">@project.Title</h5>
+
+                        <p class="card-text flex-grow-1">
+                            @project.Description
+                        </p>
+
+                        <div class="mt-auto">
+                            <a href="@project.GithubLink"
+                               target="_blank"
+                               class="btn btn-outline-light btn-sm w-100">
+                                View on GitHub
+                            </a>
+
+                            @if (!string.IsNullOrEmpty(project.DemoLink))
+                            {
+                                <a href="@project.DemoLink"
+                                   target="_blank"
+                                   class="btn btn-primary btn-sm w-100 mt-2">
+                                    Live Demo
+                                </a>
+                            }
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
