@@ -237,6 +237,10 @@
       "PackagePath": "staticwebassets\\images\\me.jpg"
     },
     {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\myimage.jpeg",
+      "PackagePath": "staticwebassets\\images\\myimage.jpeg"
+    },
+    {
       "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\AbcRetailors.PNG",
       "PackagePath": "staticwebassets\\images\\projects\\AbcRetailors.PNG"
     },

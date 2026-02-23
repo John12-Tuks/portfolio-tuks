@@ -708,6 +708,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MmnsU3Jcm1rfowepruLzMlBQZWvlyp0WVkbnME2WAbA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"55677"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MmnsU3Jcm1rfowepruLzMlBQZWvlyp0WVkbnME2WAbA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Feb 2026 10:13:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/cvPortfolio/images/myimage.8ncn1ozo2d.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\myimage.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8ncn1ozo2d"},{"Name":"integrity","Value":"sha256-xNAERAf7kXkB/9Cs1dcKLyGmOUc/7ummvm6tQCkB1LM="},{"Name":"label","Value":"_content/cvPortfolio/images/myimage.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22841"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xNAERAf7kXkB/9Cs1dcKLyGmOUc/7ummvm6tQCkB1LM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Feb 2026 18:07:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/cvPortfolio/images/myimage.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\myimage.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xNAERAf7kXkB/9Cs1dcKLyGmOUc/7ummvm6tQCkB1LM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22841"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xNAERAf7kXkB/9Cs1dcKLyGmOUc/7ummvm6tQCkB1LM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Feb 2026 18:07:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/cvPortfolio/images/projects/AbcRetailors.85jkfttw3d.PNG">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\projects\AbcRetailors.PNG'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

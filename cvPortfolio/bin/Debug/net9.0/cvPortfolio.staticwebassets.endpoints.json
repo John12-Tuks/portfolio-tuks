@@ -12401,6 +12401,88 @@
       ]
     },
     {
+      "Route": "images/myimage.8ncn1ozo2d.jpeg",
+      "AssetFile": "images/myimage.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNAERAf7kXkB/9Cs1dcKLyGmOUc/7ummvm6tQCkB1LM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Feb 2026 18:07:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ncn1ozo2d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNAERAf7kXkB/9Cs1dcKLyGmOUc/7ummvm6tQCkB1LM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/myimage.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/myimage.jpeg",
+      "AssetFile": "images/myimage.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNAERAf7kXkB/9Cs1dcKLyGmOUc/7ummvm6tQCkB1LM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Feb 2026 18:07:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNAERAf7kXkB/9Cs1dcKLyGmOUc/7ummvm6tQCkB1LM="
+        }
+      ]
+    },
+    {
       "Route": "images/projects/AbcRetailors.85jkfttw3d.PNG",
       "AssetFile": "images/projects/AbcRetailors.PNG",
       "Selectors": [],
