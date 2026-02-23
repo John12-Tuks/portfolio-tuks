@@ -648,17 +648,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"duvx5wi9ke"},{"Name":"integrity","Value":"sha256-dSQY4tNQANxEXAiojd8SmuRsXg2unLTqWoyb5czYWfQ="},{"Name":"label","Value":"_content/cvPortfolio/css/site.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1429"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dSQY4tNQANxEXAiojd8SmuRsXg2unLTqWoyb5czYWfQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Feb 2026 07:39:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/cvPortfolio/cvPortfolio.agzhwh145l.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvPortfolio.agzhwh145l.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/cvPortfolio/cvPortfolio.4omjza2rkr.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvPortfolio.4omjza2rkr.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"agzhwh145l"},{"Name":"integrity","Value":"sha256-uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U="},{"Name":"label","Value":"_content/cvPortfolio/cvPortfolio.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1004"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Feb 2026 07:42:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4omjza2rkr"},{"Name":"integrity","Value":"sha256-fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U="},{"Name":"label","Value":"_content/cvPortfolio/cvPortfolio.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1007"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Feb 2026 11:05:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/cvPortfolio/cvPortfolio.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvPortfolio.agzhwh145l.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvPortfolio.4omjza2rkr.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1004"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Feb 2026 07:42:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1007"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Feb 2026 11:05:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/cvPortfolio/documents/Tokelo_CV.pa5zwr5yh3.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\documents\Tokelo_CV.pdf'))</AssetFile>

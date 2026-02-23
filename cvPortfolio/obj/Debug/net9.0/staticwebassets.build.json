@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "48CoWtcZCCj48OazRNvphZRCjarW9WA1UlZrddLtzWA=",
+  "Hash": "zrEgRDsOSk2ZZ42zIR+lv07tGcvhDwBFKybs6zwc0KU=",
   "Source": "cvPortfolio",
   "BasePath": "_content/cvPortfolio",
   "Mode": "Default",
@@ -920,12 +920,12 @@
       "OriginalItemSpec": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\ftjkp9wg3s-agzhwh145l.gz",
+      "Identity": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\ftjkp9wg3s-4omjza2rkr.gz",
       "SourceId": "cvPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/cvPortfolio",
-      "RelativePath": "cvPortfolio#[.{fingerprint=agzhwh145l}]?.styles.css.gz",
+      "RelativePath": "cvPortfolio#[.{fingerprint=4omjza2rkr}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -934,8 +934,8 @@
       "RelatedAsset": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\cvPortfolio.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bqaf2avnvb",
-      "Integrity": "7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8=",
+      "Fingerprint": "s7n3v30wat",
+      "Integrity": "SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\cvPortfolio.styles.css"
@@ -962,12 +962,12 @@
       "OriginalItemSpec": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Typescript.svg"
     },
     {
-      "Identity": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\hfdajh6yfv-agzhwh145l.gz",
+      "Identity": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\hfdajh6yfv-4omjza2rkr.gz",
       "SourceId": "cvPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/cvPortfolio",
-      "RelativePath": "cvPortfolio#[.{fingerprint=agzhwh145l}]!.bundle.scp.css.gz",
+      "RelativePath": "cvPortfolio#[.{fingerprint=4omjza2rkr}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -976,8 +976,8 @@
       "RelatedAsset": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\cvPortfolio.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bqaf2avnvb",
-      "Integrity": "7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8=",
+      "Fingerprint": "s7n3v30wat",
+      "Integrity": "SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\cvPortfolio.bundle.scp.css"
@@ -2068,8 +2068,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "agzhwh145l",
-      "Integrity": "uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=",
+      "Fingerprint": "4omjza2rkr",
+      "Integrity": "fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\cvPortfolio.styles.css"
@@ -2089,8 +2089,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "agzhwh145l",
-      "Integrity": "uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=",
+      "Fingerprint": "4omjza2rkr",
+      "Integrity": "fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\cvPortfolio.bundle.scp.css"
@@ -16342,13 +16342,13 @@
       ]
     },
     {
-      "Route": "cvPortfolio.agzhwh145l.bundle.scp.css",
-      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\hfdajh6yfv-agzhwh145l.gz",
+      "Route": "cvPortfolio.4omjza2rkr.bundle.scp.css",
+      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\hfdajh6yfv-4omjza2rkr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002024291498"
+          "Quality": "0.001988071571"
         }
       ],
       "ResponseHeaders": [
@@ -16358,15 +16358,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "493"
+          "Value": "502"
         },
         {
           "Name": "ETag",
-          "Value": "\"7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8=\""
+          "Value": "\"SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16386,13 +16386,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=\""
+          "Value": "W/\"fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "agzhwh145l"
+          "Value": "4omjza2rkr"
         },
         {
           "Name": "label",
@@ -16400,12 +16400,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U="
+          "Value": "sha256-fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U="
         }
       ]
     },
     {
-      "Route": "cvPortfolio.agzhwh145l.bundle.scp.css",
+      "Route": "cvPortfolio.4omjza2rkr.bundle.scp.css",
       "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\cvPortfolio.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -16415,7 +16415,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1004"
+          "Value": "1007"
         },
         {
           "Name": "Content-Type",
@@ -16423,11 +16423,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=\""
+          "Value": "\"fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16437,7 +16437,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "agzhwh145l"
+          "Value": "4omjza2rkr"
         },
         {
           "Name": "label",
@@ -16445,13 +16445,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U="
+          "Value": "sha256-fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U="
         }
       ]
     },
     {
-      "Route": "cvPortfolio.agzhwh145l.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\hfdajh6yfv-agzhwh145l.gz",
+      "Route": "cvPortfolio.4omjza2rkr.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\hfdajh6yfv-4omjza2rkr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16460,7 +16460,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "493"
+          "Value": "502"
         },
         {
           "Name": "Content-Type",
@@ -16468,11 +16468,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8=\""
+          "Value": "\"SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16490,7 +16490,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "agzhwh145l"
+          "Value": "4omjza2rkr"
         },
         {
           "Name": "label",
@@ -16498,18 +16498,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8="
+          "Value": "sha256-SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg="
         }
       ]
     },
     {
-      "Route": "cvPortfolio.agzhwh145l.styles.css",
-      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\ftjkp9wg3s-agzhwh145l.gz",
+      "Route": "cvPortfolio.4omjza2rkr.styles.css",
+      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\ftjkp9wg3s-4omjza2rkr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002024291498"
+          "Quality": "0.001988071571"
         }
       ],
       "ResponseHeaders": [
@@ -16519,15 +16519,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "493"
+          "Value": "502"
         },
         {
           "Name": "ETag",
-          "Value": "\"7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8=\""
+          "Value": "\"SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16547,13 +16547,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=\""
+          "Value": "W/\"fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "agzhwh145l"
+          "Value": "4omjza2rkr"
         },
         {
           "Name": "label",
@@ -16561,12 +16561,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U="
+          "Value": "sha256-fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U="
         }
       ]
     },
     {
-      "Route": "cvPortfolio.agzhwh145l.styles.css",
+      "Route": "cvPortfolio.4omjza2rkr.styles.css",
       "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\cvPortfolio.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -16576,7 +16576,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1004"
+          "Value": "1007"
         },
         {
           "Name": "Content-Type",
@@ -16584,11 +16584,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=\""
+          "Value": "\"fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16598,7 +16598,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "agzhwh145l"
+          "Value": "4omjza2rkr"
         },
         {
           "Name": "label",
@@ -16606,13 +16606,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U="
+          "Value": "sha256-fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U="
         }
       ]
     },
     {
-      "Route": "cvPortfolio.agzhwh145l.styles.css.gz",
-      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\ftjkp9wg3s-agzhwh145l.gz",
+      "Route": "cvPortfolio.4omjza2rkr.styles.css.gz",
+      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\ftjkp9wg3s-4omjza2rkr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16621,7 +16621,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "493"
+          "Value": "502"
         },
         {
           "Name": "Content-Type",
@@ -16629,11 +16629,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8=\""
+          "Value": "\"SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16651,7 +16651,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "agzhwh145l"
+          "Value": "4omjza2rkr"
         },
         {
           "Name": "label",
@@ -16659,18 +16659,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8="
+          "Value": "sha256-SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg="
         }
       ]
     },
     {
       "Route": "cvPortfolio.bundle.scp.css",
-      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\hfdajh6yfv-agzhwh145l.gz",
+      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\hfdajh6yfv-4omjza2rkr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002024291498"
+          "Quality": "0.001988071571"
         }
       ],
       "ResponseHeaders": [
@@ -16680,15 +16680,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "493"
+          "Value": "502"
         },
         {
           "Name": "ETag",
-          "Value": "\"7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8=\""
+          "Value": "\"SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16708,13 +16708,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=\""
+          "Value": "W/\"fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U="
+          "Value": "sha256-fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U="
         }
       ]
     },
@@ -16729,7 +16729,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1004"
+          "Value": "1007"
         },
         {
           "Name": "Content-Type",
@@ -16737,11 +16737,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=\""
+          "Value": "\"fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16751,13 +16751,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U="
+          "Value": "sha256-fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U="
         }
       ]
     },
     {
       "Route": "cvPortfolio.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\hfdajh6yfv-agzhwh145l.gz",
+      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\hfdajh6yfv-4omjza2rkr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16766,7 +16766,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "493"
+          "Value": "502"
         },
         {
           "Name": "Content-Type",
@@ -16774,11 +16774,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8=\""
+          "Value": "\"SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16796,18 +16796,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8="
+          "Value": "sha256-SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg="
         }
       ]
     },
     {
       "Route": "cvPortfolio.styles.css",
-      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\ftjkp9wg3s-agzhwh145l.gz",
+      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\ftjkp9wg3s-4omjza2rkr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002024291498"
+          "Quality": "0.001988071571"
         }
       ],
       "ResponseHeaders": [
@@ -16817,15 +16817,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "493"
+          "Value": "502"
         },
         {
           "Name": "ETag",
-          "Value": "\"7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8=\""
+          "Value": "\"SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16845,13 +16845,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=\""
+          "Value": "W/\"fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U="
+          "Value": "sha256-fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U="
         }
       ]
     },
@@ -16866,7 +16866,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1004"
+          "Value": "1007"
         },
         {
           "Name": "Content-Type",
@@ -16874,11 +16874,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=\""
+          "Value": "\"fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16888,13 +16888,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U="
+          "Value": "sha256-fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U="
         }
       ]
     },
     {
       "Route": "cvPortfolio.styles.css.gz",
-      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\ftjkp9wg3s-agzhwh145l.gz",
+      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\compressed\\ftjkp9wg3s-4omjza2rkr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16903,7 +16903,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "493"
+          "Value": "502"
         },
         {
           "Name": "Content-Type",
@@ -16911,11 +16911,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8=\""
+          "Value": "\"SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Feb 2026 07:42:50 GMT"
+          "Value": "Mon, 23 Feb 2026 11:05:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16933,7 +16933,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7cHhoR+i8kzfLVGX4191fJ47e2W1xEIAyywlW7vI6I8="
+          "Value": "sha256-SAOzYC/LAGViokOWejav5ZFtAJQ27lM+nNlUKfY7Nvg="
         }
       ]
     },

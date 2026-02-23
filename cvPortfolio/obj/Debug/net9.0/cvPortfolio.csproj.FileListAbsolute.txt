@@ -255,6 +255,6 @@ C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net9.0\cvP
 C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net9.0\cvPortfolio.genruntimeconfig.cache
 C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net9.0\ref\cvPortfolio.dll
 C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net9.0\compressed\hz7ojg11dt-duvx5wi9ke.gz
-C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net9.0\compressed\ftjkp9wg3s-agzhwh145l.gz
-C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net9.0\compressed\hfdajh6yfv-agzhwh145l.gz
 C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net9.0\compressed\zczdg33y3p-22013htzh0.gz
+C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net9.0\compressed\ftjkp9wg3s-4omjza2rkr.gz
+C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net9.0\compressed\hfdajh6yfv-4omjza2rkr.gz

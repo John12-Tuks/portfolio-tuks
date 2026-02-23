@@ -972,23 +972,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvPortfolio.agzhwh145l.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvPortfolio.4omjza2rkr.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>cvPortfolio</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/cvPortfolio</BasePath>
-      <RelativePath>cvPortfolio.agzhwh145l.bundle.scp.css</RelativePath>
+      <RelativePath>cvPortfolio.4omjza2rkr.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>agzhwh145l</Fingerprint>
-      <Integrity>uuHGu8Y51lgZIW/HK5sNkUEi0UTX0SKlJn7ubOjs88U=</Integrity>
+      <Fingerprint>4omjza2rkr</Fingerprint>
+      <Integrity>fLsX4qTgJ43nRp7IqDv/yQyk44geY36mZmC82iX870U=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvPortfolio.agzhwh145l.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvPortfolio.4omjza2rkr.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\documents\Tokelo_CV.pdf'))">
       <SourceType>Package</SourceType>
