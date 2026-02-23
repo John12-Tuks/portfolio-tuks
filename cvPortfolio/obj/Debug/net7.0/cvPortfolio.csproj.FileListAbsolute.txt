@@ -1,0 +1,8 @@
+C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net7.0\cvPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net7.0\cvPortfolio.AssemblyInfoInputs.cache
+C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net7.0\cvPortfolio.AssemblyInfo.cs
+C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net7.0\cvPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net7.0\cvPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net7.0\cvPortfolio.RazorAssemblyInfo.cache
+C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net7.0\cvPortfolio.RazorAssemblyInfo.cs
+C:\Users\TOKELO\Documents\GitHub\portfolio-tuks\cvPortfolio\obj\Debug\net7.0\cvPortfolio.sourcelink.json

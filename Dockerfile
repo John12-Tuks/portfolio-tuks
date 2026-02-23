@@ -13,7 +13,7 @@ WORKDIR /app/cvPortfolio
 RUN dotnet publish -c Release -o out
 
 # Use the runtime image for deployment
-FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS runtime
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS runtime
 WORKDIR /app
 COPY --from=build /app/cvPortfolio/out .
 
