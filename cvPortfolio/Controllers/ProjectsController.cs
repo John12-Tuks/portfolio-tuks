@@ -62,7 +62,14 @@ namespace MyWebsite.Controllers
                     ImagePath = "/images/projects/dns.jfif",
                     Title = "Custom DNS Server for Bug Bounty & Private Resolution (In Progress)",
                     Description = "Building a custom DNS server on Ubuntu Server 22.04 designed for private DNS resolution and security monitoring. The current setup includes isolated CoreDNS instances and dedicated zones for controlled domain management.",
-                    }
+                    },
+                    new Project 
+                    {
+    ImagePath = "/images/projects/heaven1.JPG",
+    Title = "Heavenly Gift NGO Website",
+    Description = "Designed and developed a responsive website enabling users to submit prayer requests and access organizational magazine publications.",
+    DemoLink = "https://heavenly-gift.co.za"
+},
             };
 
             return View(projects);

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zrEgRDsOSk2ZZ42zIR+lv07tGcvhDwBFKybs6zwc0KU=",
+  "Hash": "yRr2j/3s6bLGkGSZmdhba7254vJ/H3y08MH77Y9j75E=",
   "Source": "cvPortfolio",
   "BasePath": "_content/cvPortfolio",
   "Mode": "Default",
@@ -3396,6 +3396,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\projects\\dns.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\heaven1.JPG",
+      "SourceId": "cvPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\",
+      "BasePath": "_content/cvPortfolio",
+      "RelativePath": "images/projects/heaven1#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "073mtzzzaj",
+      "Integrity": "rFJT0b22nmwUyv5PC37NiXz8e2zCTzKS56EYDLNFSgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\projects\\heaven1.JPG"
     },
     {
       "Identity": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\homelab2.jfif",
@@ -17806,6 +17827,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-pvlcwAAJvKCItfx7/hDQq/xQhmr6q5FkQp5NgbZ+XUQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/projects/heaven1.073mtzzzaj.JPG",
+      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\heaven1.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rFJT0b22nmwUyv5PC37NiXz8e2zCTzKS56EYDLNFSgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Feb 2026 17:32:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "073mtzzzaj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/projects/heaven1.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFJT0b22nmwUyv5PC37NiXz8e2zCTzKS56EYDLNFSgE="
+        }
+      ]
+    },
+    {
+      "Route": "images/projects/heaven1.JPG",
+      "AssetFile": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\heaven1.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rFJT0b22nmwUyv5PC37NiXz8e2zCTzKS56EYDLNFSgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Feb 2026 17:32:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFJT0b22nmwUyv5PC37NiXz8e2zCTzKS56EYDLNFSgE="
         }
       ]
     },
