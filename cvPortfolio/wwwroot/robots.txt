@@ -1,0 +1,20 @@
+# Allow all bots to crawl the main pages
+User-agent: *
+Allow: /
+
+# Disallow sensitive or system folders
+Disallow: /bin/
+Disallow: /obj/
+Disallow: /Properties/
+Disallow: /Views/Shared/EditorTemplates/
+Disallow: /Views/Shared/DisplayTemplates/
+Disallow: /packages/
+Disallow: /App_Data/
+Disallow: /Controllers/
+Disallow: /Models/
+Disallow: /Scripts/ (if any private scripts)
+Disallow: /Content/ (if any private CSS, optional)
+Disallow: /Test/
+Disallow: /Temp/
+
+# Sitemap location for SEO (optional)

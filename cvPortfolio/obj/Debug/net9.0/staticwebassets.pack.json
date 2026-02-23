@@ -1,428 +1,520 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\cvPortfolio.bundle.scp.css",
-      "PackagePath": "staticwebassets\\cvPortfolio.ras4melr73.bundle.scp.css"
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\cvPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\cvPortfolio.agzhwh145l.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\AWS.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\AWS.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\AWS.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Apple MacOSX.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Apple MacOSX.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Apple MacOSX.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\C++.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Asp.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\Asp.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\C++.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\C++.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Docker.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Docker.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Docker.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Firebase.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Firebase.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Firebase.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Git.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Git.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Git.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Google Chrome.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Google Chrome.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Google Chrome.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Haskell.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Haskell.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Haskell.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Java.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Java.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Java.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Javascript.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Javascript.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Javascript.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Kafka.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Kafka.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Kafka.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Kubernates.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Kubernates.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Kubernates.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\MUI.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\MUI.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\MUI.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Mongo.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\MYSQL.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\MYSQL.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Mongo.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Mongo.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Next.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Next.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Next.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Node.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Node.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Node.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Postman.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Postman.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Postman.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Python.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Python.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Python.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\React.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\React.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\React.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Redis.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Redis.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Redis.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Redux.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Redux.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Redux.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\SQL.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\SQL.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\SQL.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Tailwind.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Tailwind.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Tailwind.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Typescript.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\Typescript.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\Typescript.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\c#.png",
-      "PackagePath": "staticwebassets\\assets\\tech-icons\\c#.png"
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\azure.jfif",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\azure.jfif"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\go.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\bash.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\bash.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\burp.jfif",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\burp.jfif"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\cs.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\cs.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\fuff.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\fuff.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\go.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\go.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\intellij-idea.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\gobuster.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\gobuster.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\intellij-idea.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\intellij-idea.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\kali.png",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\kali.png",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\kali.png"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\kalilinux.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\kalilinux.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\kalilinux.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\vscode.svg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\metasploit.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\metasploit.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\microsql.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\microsql.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\netbeans.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\netbeans.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\nmap.jfif",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\nmap.jfif"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\postgres.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\postgres.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\ubuntu.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\ubuntu.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\ubuntuserver.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\ubuntuserver.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\vbox.jfif",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\vbox.jfif"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\vmware.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\vmware.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\vs2022.png",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\vs2022.png"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\vscode.svg",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\vscode.svg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\windows.png",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\windows.png",
       "PackagePath": "staticwebassets\\assets\\tech-icons\\windows.png"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\css\\about.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\assets\\tech-icons\\zap.jfif",
+      "PackagePath": "staticwebassets\\assets\\tech-icons\\zap.jfif"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\css\\about.css",
       "PackagePath": "staticwebassets\\css\\about.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\css\\index.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\css\\project.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\css\\project.css",
       "PackagePath": "staticwebassets\\css\\project.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\css\\resume.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\css\\resume.css",
       "PackagePath": "staticwebassets\\css\\resume.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\documents\\Tokelo_CV.pdf",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\documents\\Tokelo_CV.pdf",
       "PackagePath": "staticwebassets\\documents\\Tokelo_CV.pdf"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\AbcRetailors.PNG",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\master.jpg",
+      "PackagePath": "staticwebassets\\images\\master.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\me.jpg",
+      "PackagePath": "staticwebassets\\images\\me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\AbcRetailors.PNG",
       "PackagePath": "staticwebassets\\images\\projects\\AbcRetailors.PNG"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\chatbot.jfif",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\chatbot.jfif",
       "PackagePath": "staticwebassets\\images\\projects\\chatbot.jfif"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\diamond.jfif",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\diamond.jfif",
       "PackagePath": "staticwebassets\\images\\projects\\diamond.jfif"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\lecturer.PNG",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\dns.jfif",
+      "PackagePath": "staticwebassets\\images\\projects\\dns.jfif"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\homelab2.jfif",
+      "PackagePath": "staticwebassets\\images\\projects\\homelab2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\lecturer.PNG",
       "PackagePath": "staticwebassets\\images\\projects\\lecturer.PNG"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\port-scanner.jpg",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\port-scanner.jpg",
       "PackagePath": "staticwebassets\\images\\projects\\port-scanner.jpg"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\shell.jfif",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\images\\projects\\shell.jfif",
       "PackagePath": "staticwebassets\\images\\projects\\shell.jfif"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\TOKELO\\Desktop\\Portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\TOKELO\\Documents\\GitHub\\portfolio-tuks\\cvPortfolio\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.cvPortfolio.props",

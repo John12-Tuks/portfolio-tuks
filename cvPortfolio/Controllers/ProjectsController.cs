@@ -19,14 +19,14 @@ namespace MyWebsite.Controllers
                 new Project
                 {
                     ImagePath = "/images/projects/diamond.jfif",
-                    Title = "Minecraft Diamond Scanner",
+                    Title = "Minecraft Diamond Scanner(In Progress)",
                     Description = "Java-based tool that scans Minecraft .mca region files to locate diamonds and selected blocks.",
                     GithubLink = "https://github.com/John12-Tuks/MinecraftItemandBlockscanner.git"
                 },
                 new Project
                 {
                     ImagePath = "/images/projects/shell.jfif",
-                    Title = "PersonalShell",
+                    Title = "PersonalShell(In Progress)",
                     Description = "A custom-built shell application designed to execute system commands and simulate terminal behavior.",
                     GithubLink = "https://github.com/John12-Tuks/PersonalShell.git"
                 },
@@ -50,7 +50,19 @@ namespace MyWebsite.Controllers
                     Title = "CyberBot - Cybersecurity Chatbot",
                     Description = "C# chatbot with NLP intent detection, sentiment analysis, quiz logic, task reminders and cybersecurity guidance.",
                     GithubLink = "https://github.com/KgomoTokelo/ST10452012_PROG6221-POEPART1.git"
-                }
+                },
+                 new Project
+                {
+                    ImagePath = "/images/projects/homelab2.jfif",
+                    Title = "HomeLab - Cybersecurity Homelab",
+                    Description = "Designed and maintained a personal cybersecurity and software development lab for hands-on learning and experimentation. ",
+                    },
+                     new Project
+                {
+                    ImagePath = "/images/projects/dns.jfif",
+                    Title = "Custom DNS Server for Bug Bounty & Private Resolution (In Progress)",
+                    Description = "Building a custom DNS server on Ubuntu Server 22.04 designed for private DNS resolution and security monitoring. The current setup includes isolated CoreDNS instances and dedicated zones for controlled domain management.",
+                    }
             };
 
             return View(projects);
